@@ -1,7 +1,7 @@
 # Responsive_Restaurant-Website
 This is a front end project. <br>     I have created a restaurant website
-#YouTube_Link 
-#Website Link  https://chilcoding.github.io/Responsive-Restaurant-Website/
+## YouTube Link
+## Website Link  https://chilcoding.github.io/Responsive-Restaurant-Website/
 
 
             
